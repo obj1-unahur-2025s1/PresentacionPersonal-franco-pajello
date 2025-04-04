@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Franco Agustin Pajello
+- Vivo en Gregorio de Laferrere
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- tengo 27 años, soy hincha de boca y aparte de la carrera tambien estoy en el taller de teatro 
+
